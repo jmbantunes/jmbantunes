@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my GitHub profile!</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiomocruz&label=Profile%20views&color=0e75b6&style=flat" alt="sergiomocruz" /> </p> -->
 
-- 🔭 I’m currently an intern at **Cachapuz**
+- 🔭 I’m currently an **Systems Engineering Student**
 
 - 🌱 I’m a **Junior Web Developer**
 
