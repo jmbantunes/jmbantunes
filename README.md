@@ -6,7 +6,7 @@
 
 - 🌱 I’m a **Junior Web Developer**
 
-- 📄 [Resume](https://drive.google.com/file/d/1rapT9P0wY2ZL8HeZzW6sEebpuSciic8E/view?usp=sharing)
+
 
 
 
