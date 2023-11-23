@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently an **Systems Engineering Student**
 
-- 🌱 I’m a **Junior Web Developer**
+
 
 
 
